@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1622344469282,162,Homepage  Request,200,OK,Thread Group 1-1,text,true,,282814,115,1,1,https://dantri.com.vn/,105,0,88
+1622344479457,46,Homepage  Request,200,OK,Thread Group 1-1,text,true,,282814,115,1,1,https://dantri.com.vn/,7,0,0
+1622344489506,48,Homepage  Request,200,OK,Thread Group 1-1,text,true,,282814,115,1,1,https://dantri.com.vn/,9,0,0
+1622344499556,45,Homepage  Request,200,OK,Thread Group 1-1,text,true,,282774,115,1,1,https://dantri.com.vn/,8,0,0
+1622344509603,45,Homepage  Request,200,OK,Thread Group 1-1,text,true,,282774,115,1,1,https://dantri.com.vn/,9,0,0
+1622344519651,25,Video Page Request,200,OK,Thread Group 1-1,text,true,,136327,129,1,1,https://dantri.com.vn/video-page.htm,10,0,0
+1622344529679,63,Su Kien Request,200,OK,Thread Group 1-1,text,true,,117318,126,1,1,https://dantri.com.vn/su-kien.htm,36,0,28
+1622344539743,41,Xa Hoi Request,200,OK,Thread Group 1-1,text,true,,170293,125,1,1,https://dantri.com.vn/xa-hoi.htm,9,0,0
